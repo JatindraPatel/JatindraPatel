@@ -20,9 +20,11 @@ Python | SQL | Power BI | MySQL | Excel | C++ | Git | GitHub | HTML/CSS | Jupyte
 
 📌 Some of My Favorite Projects:
 
-📈 Sales Dashboard Analysis using real business data
+📈 Coffee Shop Sales Analysis by using Excel
 
-🍕  Pizza Sales Insights project with SQL + BI
+📈 Sales Dashboard Analysis using real business data with Poer BI
+
+🍕  Pizza Sales Insights project with SQL 
 
 💡 Mini projects automating daily tasks with Python
 
