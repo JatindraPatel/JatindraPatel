@@ -32,9 +32,9 @@ Python | SQL | Power BI | MySQL | Excel | C++ | Git | GitHub | HTML/CSS | Jupyte
 
 📬 Feel free to connect or collaborate!
 
-🌐 My GitHub Profile{https://github.com/JatindraPatel}
+🌐 My GitHub Profile { https://github.com/JatindraPatel/ }
 
-💼 Also available on LinkedIn{https://www.linkedin.com/in/jatindrapatel}
+💼 Also available on LinkedIn { https://www.linkedin.com/in/jatindrapatel/ }
 
 
 <!---
